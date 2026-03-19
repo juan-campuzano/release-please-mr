@@ -4,15 +4,21 @@
   "packages": {
     "folder_a": {
       "release-type": "node",
-      "changelog-path": "CHANGELOG.md"
+      "changelog-path": "CHANGELOG.md",
+      "include-component-in-tag": true,
+      "component": "folder_a"
     },
     "folder_b": {
       "release-type": "node",
-      "changelog-path": "CHANGELOG.md"
+      "changelog-path": "CHANGELOG.md",
+      "include-component-in-tag": true,
+      "component": "folder_b"
     },
     "folder_c": {
       "release-type": "node",
-      "changelog-path": "CHANGELOG.md"
+      "changelog-path": "CHANGELOG.md",
+      "include-component-in-tag": true,
+      "component": "folder_c"
     }
   }
 }
