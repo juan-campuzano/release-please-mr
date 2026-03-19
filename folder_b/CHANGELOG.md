@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://github.com/juan-campuzano/release-please-mr/compare/folder_b-v1.1.0...folder_b-v1.2.0) (2026-03-19)
+
+
+### Features
+
+* Add duplicate print statement in index.ts ([c151a13](https://github.com/juan-campuzano/release-please-mr/commit/c151a13f50678d968d104c9f2551cdced2676a67))
+* Duplicate print statement in index.ts ([f4cb89c](https://github.com/juan-campuzano/release-please-mr/commit/f4cb89ce80b9a8fcd206add7b1815fd8c1a24fc0))
+
 ## [1.1.0](https://github.com/juan-campuzano/release-please-mr/compare/folder_b-v1.0.0...folder_b-v1.1.0) (2026-03-19)
 
 

@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/juan-campuzano/release-please-mr/compare/folder_c-v2.0.0...folder_c-v3.0.0) (2026-03-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* Remove duplicate print statement in index.ts
+
+### Features
+
+* Remove duplicate print statement in index.ts ([b60030b](https://github.com/juan-campuzano/release-please-mr/commit/b60030b349e6e8cb694891b8f0e558d0831ac75b))
+
 ## [2.0.0](https://github.com/juan-campuzano/release-please-mr/compare/folder_c-v1.0.0...folder_c-v2.0.0) (2026-03-19)
 
 
