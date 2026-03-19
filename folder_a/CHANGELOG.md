@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/juan-campuzano/release-please-mr/compare/folder_a-v0.2.0...folder_a-v0.3.0) (2026-03-19)
+
+
+### Features
+
+* Add example print statement to index.ts ([d02a140](https://github.com/juan-campuzano/release-please-mr/commit/d02a14055638e576eb3da4c76c06f298c07e0fa8))
+
 ## [0.2.0](https://github.com/juan-campuzano/release-please-mr/compare/folder_a-v0.1.0...folder_a-v0.2.0) (2026-03-19)
 
 
