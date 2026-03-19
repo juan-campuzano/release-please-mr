@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/juan-campuzano/release-please-mr/compare/folder_b-v0.2.0...folder_b-v1.0.0) (2026-03-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* add breaking change
+
+### Features
+
+* add breaking change ([c756ba4](https://github.com/juan-campuzano/release-please-mr/commit/c756ba427c583d5b7a4406fe2937deb6fed28b12))
+
 ## [0.2.0](https://github.com/juan-campuzano/release-please-mr/compare/folder_b-v0.1.0...folder_b-v0.2.0) (2026-03-19)
 
 
