@@ -1,0 +1,6 @@
+{
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/manifest.json",
+  "folder_a": "0.1.0",
+  "folder_b": "0.1.0",
+  "folder_c": "0.1.0"
+}
