@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/juan-campuzano/release-please-mr/compare/folder_c-v0.2.0...folder_c-v0.2.1) (2026-03-19)
+
+
+### Bug Fixes
+
+* Add print statement in folder_c/index.ts ([edf6412](https://github.com/juan-campuzano/release-please-mr/commit/edf6412b2f32130547b751774d86fce0b7ce1817))
+
 ## [0.2.0](https://github.com/juan-campuzano/release-please-mr/compare/folder_c-v0.1.0...folder_c-v0.2.0) (2026-03-19)
 
 
