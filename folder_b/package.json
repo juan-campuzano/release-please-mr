@@ -1,0 +1,10 @@
+{
+  "name": "@release-please-mr/folder-b",
+  "version": "0.1.0",
+  "description": "folder_b package",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

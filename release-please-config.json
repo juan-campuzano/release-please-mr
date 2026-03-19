@@ -1,0 +1,24 @@
+{
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
+  "release-type": "node",
+  "packages": {
+    "folder_a": {
+      "release-type": "node",
+      "changelog-path": "CHANGELOG.md",
+      "include-component-in-tag": true,
+      "component": "folder_a"
+    },
+    "folder_b": {
+      "release-type": "node",
+      "changelog-path": "CHANGELOG.md",
+      "include-component-in-tag": true,
+      "component": "folder_b"
+    },
+    "folder_c": {
+      "release-type": "node",
+      "changelog-path": "CHANGELOG.md",
+      "include-component-in-tag": true,
+      "component": "folder_c"
+    }
+  }
+}
