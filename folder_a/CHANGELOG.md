@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.4.0](https://github.com/juan-campuzano/release-please-mr/compare/folder_a-v0.3.0...folder_a-v0.4.0) (2026-03-19)
+
+
+### Features
+
+* Remove 'hello' from example print statement ([c1e3c3a](https://github.com/juan-campuzano/release-please-mr/commit/c1e3c3a644ceffec545687d71cbe298adab7ac28))
+* Remove duplicate print statement ([21f1f3a](https://github.com/juan-campuzano/release-please-mr/commit/21f1f3a2eaf40cb0b14d52cfb3f8f7ecbb6487d1))
+* Remove duplicate print statement ([392097f](https://github.com/juan-campuzano/release-please-mr/commit/392097f65e4119fd4db30e4f360e0ea91c1510c1))
+
 ## [0.3.0](https://github.com/juan-campuzano/release-please-mr/compare/folder_a-v0.2.0...folder_a-v0.3.0) (2026-03-19)
 
 
