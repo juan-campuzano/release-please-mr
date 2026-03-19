@@ -2,4 +2,4 @@ export const folderA = 'folder_a';
 
 print("Hello world");
 
-print("This is an example, hello");
+print("This is an example");
