@@ -1,6 +1,6 @@
 {
   "name": "@release-please-mr/folder-c",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "folder_c package",
   "main": "index.js",
   "scripts": {},
